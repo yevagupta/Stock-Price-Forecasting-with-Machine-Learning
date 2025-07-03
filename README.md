@@ -4,7 +4,7 @@ This repository contains Python code for stock price prediction using LSTM. I ai
 
 ## Dataset <a name="dataset"></a>
 
-The dataset used in this project, named 'AAPL_short_volume.csv', is extracted from OpenBB, a prominent open-source investment analysis company. The dataset consists of historical closing prices of AAPL stock, which will be used for training and evaluating our machine-learning model. The 'AAPL_short_volume.csv' file can be found in the "data" directory of this repository.
+The dataset used in this project, named 'AAPL_short_volume.csv', is extracted from OpenBB, a prominent open-source investment analysis company. The dataset consists of historical closing prices of AAPL stock, which will be used for training and evaluating our machine-learning model. 
 
 ## Model Evaluation and Results <a name="model-evaluation-and-results"></a>
 

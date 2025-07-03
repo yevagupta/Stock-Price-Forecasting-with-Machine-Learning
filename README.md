@@ -8,4 +8,4 @@ The dataset used in this project, named 'AAPL_short_volume.csv', is extracted fr
 
 ## Model Evaluation and Results <a name="model-evaluation-and-results"></a>
 
-To evaluate the performance of the model, we use the **Root Mean Square Error (RMSE)** metric. The lower the RMSE value, the more accurate the model's predictions are. 
+To evaluate the performance of the model, I use the **Root Mean Square Error (RMSE)** metric. The lower the RMSE value, the more accurate the model's predictions are. 
